@@ -1,0 +1,202 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "What did the animals call Benny after he saved the duckling?",
+    "options": [
+      "Benny the Brave",
+      "Benny the Fast",
+      "Benny the Helper"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "Why did Benny feel proud and happy?",
+    "options": [
+      "Because he was faster than the wind.",
+      "Because he knew his abilities were making a big difference for his friends.",
+      "Because he won a race."
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "What was Benny's main goal when he heard the cry for help from the river?",
+    "options": [
+      "To become the forest's hero.",
+      "To save the little duckling.",
+      "To prove he was faster than the wind."
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "Choose the word which is a pronoun:",
+    "options": [
+      "Apple",
+      "Ran",
+      "Her"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "Which verb matches the picture?<br><img width='28%' src='image.png'>",
+    "options": [
+      "Play",
+      "Sing",
+      "Dance"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "Complete the sentence with the best word.<br> I want to play outside, ___ it is raining.",
+    "options": [
+      "and",
+      "but",
+      "so"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "Complete the sentence with the best word.<br> We can go to the park ___ we can go to the zoo.",
+    "options": [
+      "but",
+      "or",
+      "so"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "I feel happy ___ I got a good grade on my test.",
+    "options": [
+      "but",
+      "or",
+      "because"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "Complete the sentence with the best word.<br> I like apples ___ bananas.",
+    "options": [
+      "but",
+      "because",
+      "and"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "You can have ice cream ___ you can choose cake.",
+    "options": [
+      "or",
+      "and",
+      "because"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q11.",
+    "question": "Fill in the blank: I was late ___ I missed the bus.",
+    "options": [
+      "because",
+      "since",
+      "but"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "Which word best completes the sentence? We wanted to go swimming, ___ the pool was closed.",
+    "options": [
+      "and",
+      "but",
+      "so"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "Choose the correct word to complete the sentence. He ate breakfast ___ left for school.",
+    "options": [
+      "and",
+      "or",
+      "so"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "Fill in the blank: I have crayons ___ markers to colour with.",
+    "options": [
+      "but",
+      "or",
+      "and"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "Which word best completes the sentence? I need to wear my coat ___ it is cold outside.",
+    "options": [
+      "so",
+      "because",
+      "or"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "Choose the correct word to complete the sentence. Do you want pizza ___ pasta for dinner?",
+    "options": [
+      "so",
+      "but",
+      "or"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "I want to wear my red shirt ___ it is too cold.",
+    "options": [
+      "and",
+      "but",
+      "or"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "Which word best completes the sentence? I like to read books ___ watch movies.",
+    "options": [
+      "and",
+      "therefore",
+      "because"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "I like to read books ___ watch TV.",
+    "options": [
+      "or",
+      "but",
+      "and"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "Fill in the blank: I forgot my lunch ___ I was in a hurry.",
+    "options": [
+      "because",
+      "and",
+      "or"
+    ],
+    "correct": 0
+  }
+]
